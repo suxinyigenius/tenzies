@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tenzies/static/css/main.983348d2.chunk.css",
+    "main.js": "/tenzies/static/js/main.be6f55cc.chunk.js",
+    "main.js.map": "/tenzies/static/js/main.be6f55cc.chunk.js.map",
+    "runtime-main.js": "/tenzies/static/js/runtime-main.a0cb0721.js",
+    "runtime-main.js.map": "/tenzies/static/js/runtime-main.a0cb0721.js.map",
+    "static/js/2.c0c51680.chunk.js": "/tenzies/static/js/2.c0c51680.chunk.js",
+    "static/js/2.c0c51680.chunk.js.map": "/tenzies/static/js/2.c0c51680.chunk.js.map",
+    "static/js/3.e6abcc47.chunk.js": "/tenzies/static/js/3.e6abcc47.chunk.js",
+    "static/js/3.e6abcc47.chunk.js.map": "/tenzies/static/js/3.e6abcc47.chunk.js.map",
+    "index.html": "/tenzies/index.html",
+    "static/css/main.983348d2.chunk.css.map": "/tenzies/static/css/main.983348d2.chunk.css.map",
+    "static/js/2.c0c51680.chunk.js.LICENSE.txt": "/tenzies/static/js/2.c0c51680.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0cb0721.js",
+    "static/js/2.c0c51680.chunk.js",
+    "static/css/main.983348d2.chunk.css",
+    "static/js/main.be6f55cc.chunk.js"
+  ]
+}
